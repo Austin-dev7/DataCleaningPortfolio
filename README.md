@@ -42,3 +42,6 @@ It can remove duplicate rows and optionally filter data based on conditions.
 
 ```bash
 python data_cleaner.py
+
+```bash
+python data_cleaner.py
