@@ -19,7 +19,7 @@ It removes duplicate rows and can optionally filter data based on conditions.
 | Name  | Age | City   |
 |-------|-----|--------|
 | John  | 20  | London |
-| Mary  | 22  | Paris  |
+| Mary  | 22  | Paris |
 | John  | 20  | London |
 | James | 25  | Berlin |
 | Mary  | 22  | Paris |
@@ -40,7 +40,7 @@ You can remove duplicates by:
 | Name  | Age | City   |
 |-------|-----|--------|
 | John  | 20  | London |
-| Mary  | 22  | Paris  |
+| Mary  | 22  | Paris |
 | James | 25  | Berlin |
 
 ---
